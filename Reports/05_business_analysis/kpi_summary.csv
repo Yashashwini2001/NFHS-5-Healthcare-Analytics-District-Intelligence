@@ -1,0 +1,6 @@
+dimension,kpi_name,indicator,districts_with_data,missing_percentage,unweighted_district_average,district_median,highest_district,highest_district_state,highest_value,lowest_district,lowest_district_state,lowest_value
+Child nutrition,Stunting,children_under_5_years_who_are_stunted_height_for_age_18,706,0.14,33.52230878186969,32.835,Pashchimi Singhbhum,Jharkhand,60.61,Jagatsinghapur,Odisha,13.16
+Child nutrition,Wasting,children_under_5_years_who_are_wasted_weight_for_height_18,706,0.14,18.54235127478754,18.11,Karimganj,Assam,48.03,North District,Sikkim,4.46
+Child nutrition,Underweight,children_under_5_years_who_are_underweight_weight_for_age_18,706,0.14,29.518286118980175,29.340000000000003,Pashchimi Singhbhum,Jharkhand,62.38,South District,Sikkim,7.17
+Maternal healthcare,Antenatal care,mothers_who_had_at_least_4_antenatal_care_visits_for_last_birth_in_the_5_years_before_the_survey,706,0.14,60.49681303116147,62.535,Theni,Tamil Nadu,98.65,Tuensang,Nagaland,4.36
+Maternal healthcare,Institutional births,institutional_births_in_the_5_years_before_the_survey,707,0.0,88.67038189533238,92.2,Ariyalur,Tamil Nadu,100.0,Mon,Nagaland,21.4

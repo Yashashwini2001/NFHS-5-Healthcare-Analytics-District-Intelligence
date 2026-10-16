@@ -1,0 +1,6 @@
+dimension,kpi_name,indicator,districts_with_data,missing_percentage,mean,median,standard_deviation,minimum,maximum
+Child nutrition,Stunting,children_under_5_years_who_are_stunted_height_for_age_18,706,0.14,33.52230878186969,32.835,8.446826315475493,13.16,60.61
+Child nutrition,Wasting,children_under_5_years_who_are_wasted_weight_for_height_18,706,0.14,18.54235127478754,18.11,6.496889631908252,4.46,48.03
+Child nutrition,Underweight,children_under_5_years_who_are_underweight_weight_for_age_18,706,0.14,29.518286118980175,29.340000000000003,9.714872799596815,7.17,62.38
+Maternal healthcare,Antenatal care,mothers_who_had_at_least_4_antenatal_care_visits_for_last_birth_in_the_5_years_before_the_survey,706,0.14,60.49681303116147,62.535,20.279585540315633,4.36,98.65
+Maternal healthcare,Institutional births,institutional_births_in_the_5_years_before_the_survey,707,0.0,88.67038189533238,92.2,12.001522518905524,21.4,100.0
