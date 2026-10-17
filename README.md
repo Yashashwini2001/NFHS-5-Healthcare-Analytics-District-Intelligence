@@ -51,7 +51,7 @@ This portfolio project is designed to demonstrate the skills recruiters look for
 This section highlights disparities in child nutrition across districts:
 
 - Top 10 districts with highest stunting, wasting, and underweight rates  
-- Top 10 districts with lowest rates  
+- Top 10 districts with lowest stunting, wasting, and underweight rates  
 
 ![Child Nutrition Comparison Screenshot](powerbi/child%20nutrition.png)
 
@@ -71,7 +71,6 @@ This section compares maternal healthcare outcomes:
 
 ## 🔍 Key Insights
 
-## 🔍 Key Insights
 
 - Districts in Bihar, Jharkhand, Uttar Pradesh, and Madhya Pradesh show **high child malnutrition rates**, with stunting and underweight indicators above the national average.  
 - Districts in Kerala and Mizoram consistently rank among the **lowest malnutrition rates**, highlighting stronger nutrition outcomes.  
