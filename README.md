@@ -42,7 +42,7 @@ This portfolio project is designed to demonstrate the skills recruiters look for
 - Average Antenatal Care: **60.5%**  
 - Average Institutional Births: **88.7%**
 
-![Dashboard Overview](powerbi/dashboard-overview.png)
+![Dashboard Overview](powerbi/nfhs_overview.png)
 
 ---
 
@@ -53,7 +53,7 @@ This section highlights disparities in child nutrition across districts:
 - Top 10 districts with highest stunting, wasting, and underweight rates  
 - Top 10 districts with lowest rates  
 
-![Maternal Healthcare Comparison](powerbi/maternal-healthcare.png)
+![Child Nutrition Comparison Screenshot](powerbi/child%20nutrition.png)
 
 ---
 
@@ -65,14 +65,18 @@ This section compares maternal healthcare outcomes:
 - Districts with lowest antenatal care coverage  
 - Institutional births: best vs worst performing districts  
 
-![Maternal Healthcare Comparison Screenshot](C:\PORTFOLIO\NFHS-5-Healthcare-Analytics-District-Intelligence\maternal healthcare.png)
+![Maternal Healthcare Comparison Screenshot](powerbi/maternal%20healthcare.png)
+
 ---
 
 ## 🔍 Key Insights
 
-- Certain districts consistently show **high malnutrition rates**, requiring targeted interventions.  
-- States like Kerala demonstrate **strong maternal healthcare performance**, while parts of Bihar and Nagaland lag behind.  
-- Institutional births are high nationally, but antenatal care coverage remains uneven.  
+## 🔍 Key Insights
+
+- Districts in Bihar, Jharkhand, Uttar Pradesh, and Madhya Pradesh show **high child malnutrition rates**, with stunting and underweight indicators above the national average.  
+- Districts in Kerala and Mizoram consistently rank among the **lowest malnutrition rates**, highlighting stronger nutrition outcomes.  
+- **Maternal healthcare** indicators are uneven: Kerala and Tamil Nadu lead in **antenatal care** and **institutional births**, while parts of Nagaland and Bihar lag behind.  
+
 
 ---
 
@@ -82,3 +86,4 @@ This section compares maternal healthcare outcomes:
 
    ```bash
    git clone https://github.com/Yashashwini2001/NFHS-5-Healthcare-Analytics-District-Intelligence.git
+
